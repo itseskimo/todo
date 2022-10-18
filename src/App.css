@@ -90,3 +90,12 @@ button {
    
   }
 }
+
+@media(max-width:500px){
+  .singleTodo {
+    width: 170px;
+  }
+  .container{
+    width: 70%;
+  }
+}
